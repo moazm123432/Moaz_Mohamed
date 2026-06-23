@@ -74,13 +74,6 @@ Building Desktop Applications with Python & Qt Quick
 
 ---
 
-## 📫 Contact
-
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
 ```python
 class Moaz:
     def __init__(self):
