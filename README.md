@@ -34,9 +34,9 @@ Building Desktop Applications with Python & Qt Quick (QML)
 
 <img src="https://skillicons.dev/icons?i=qt&theme=light" height="48"/>
 
-### Databases
+### Database
 
-<img src="https://skillicons.dev/icons?i=oracle&theme=light" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 
 ### Tools
 
