@@ -38,7 +38,7 @@ Building Desktop Applications with Python & Qt Quick
 
 ### Databases
 
-![Oracle Database](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ### Tools
 
