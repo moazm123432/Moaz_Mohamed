@@ -8,7 +8,7 @@
 
 Building Desktop Applications with Python & Qt Quick (QML)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 </div>
 
@@ -28,23 +28,19 @@ Building Desktop Applications with Python & Qt Quick (QML)
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="48"/>
 
 ### GUI & Frameworks
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=qt&theme=light" height="48"/>
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=oracle&theme=light" height="48"/>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" height="48"/>
 
 ---
 
@@ -79,7 +75,7 @@ class Moaz:
     def __init__(self):
         self.languages = ["Python"]
         self.frameworks = ["PySide6", "Qt", "QML"]
-        self.database = ["SQLite"]
+        self.database = ["Oracle Database"]
         self.os = ["Windows", "Linux"]
 
     def current_focus(self):
