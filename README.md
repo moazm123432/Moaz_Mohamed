@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-### Python Developer | Qt/QML Developer
+### Desktop Application Developer
 
-Building Desktop Applications with Python & Qt Quick
+Building Desktop Applications with Python & Qt Quick (QML)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
 
